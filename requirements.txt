@@ -4,3 +4,4 @@ scrapy
 scrapyd==1.2.0
 scrapy-redis
 logparser==0.8.1
+selectolax==0.1.12
